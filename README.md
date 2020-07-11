@@ -1,4 +1,8 @@
-### Hi there 👋
+I like a bunch of things
+
+---
+
+🖥 [DivineGod/dotfiles][dotfiles] for environment setup
 
 <!--
 **DivineGod/DivineGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[dotfiles]: https://github.com/DivineGod/dotfiles
