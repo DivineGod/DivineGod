@@ -1,5 +1,7 @@
 I like a bunch of things
 
+[Check out my website](https://mjolner.tech)
+
 ---
 
 🖥 [DivineGod/devenv][devenv] for environment setup
