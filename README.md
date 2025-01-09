@@ -1,6 +1,8 @@
 I like a bunch of things
 
-[Check out my website](https://mjolner.tech)
+I'm available for remote work hire, based out of Victoria, Australia.
+
+[Check out my website](https://mjolner.tech) | [Blog](https://blog.mjolner.tech/blog/)
 
 ---
 
